@@ -1,0 +1,23 @@
+.widget {
+    position: fixed;
+    bottom: -20px;
+    right: -1px;
+  }
+
+.widget img {
+    height: 120px;
+    width: 120px;
+  }
+ 
+.wa1 {
+    height: 100px;
+    width: 100px;
+  }
+  
+.widget img:hover {
+    -webkit-filter: brightness(150%);
+  }
+  
+html {
+    scroll-behavior: smooth;
+  }

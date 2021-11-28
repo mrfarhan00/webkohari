@@ -1,0 +1,17 @@
+.container {
+  margin-top: 40px;
+}
+.container h1 {
+  margin-top: 40px;
+}
+
+div img {
+  align-items: center;
+  width: 80%;
+}
+
+
+/* font */
+article {
+  font-family: 'Roboto', sans-serif;
+}
